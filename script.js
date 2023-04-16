@@ -61,8 +61,12 @@ function generateQuote() {
 
 function fadeInText() {
   const quote = document.getElementById("quote");
-  quote.classList.remove("hidden");
-  quote.classList.add("visible");
+  if (quote.classList.contains("visible")) {
+    quote.classList.remove("visible");
+    quote.classList.add("hidden");
+  } else {
+    quote.classList.add("visible");
+  }
 }
 
 generateButton.addEventListener("click", generateQuote);
