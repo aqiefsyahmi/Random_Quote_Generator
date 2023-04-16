@@ -39,7 +39,6 @@ const quotes = [
   "Am considering taking Tesla private at $420. Funding secured.",
   "If humanity doesn't land on Mars in my lifetime, I would be very disappointed.",
   "I'd like to dial it back 5% or 10% and try to have a vacation that's not just e-mail with a view.",
-  "You know what, don't bother showing the video. We will make one of the mini-sub/pod going all the way to Cave 5 no problemo. Sorry pedo guy, you really did ask for it.",
   "I would only call someone an idiot if people were mistakenly under the impression that the person was smart.",
   "Taking Twitter private at $54.20 should be up to shareholders, not the board.",
   "I just want to retire before I go senile because if I don't retire before I go senile, then I'll do more damage than good at that point.",
